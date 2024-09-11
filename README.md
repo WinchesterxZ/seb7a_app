@@ -1,16 +1,20 @@
 # seb7a
 
-A new Flutter project.
 
-## Getting Started
+## What is being used in this project 
 
-This project is a starting point for a Flutter application.
+- Shared Preferences
+- Value notifier instead of setState
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/7f643295-7987-489c-bee1-6eba6ff23c41" width="200" />
+  <img src="https://github.com/user-attachments/assets/4803b580-9b99-46ff-903f-7e585d67b107" width="200" />
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Short video for the app
+
+https://github.com/user-attachments/assets/3e1fabed-68de-46d7-8dff-d533420f3009
+
